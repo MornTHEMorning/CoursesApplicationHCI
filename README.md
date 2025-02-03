@@ -1,6 +1,11 @@
 # CoursesApplicationHCI
 Submission for HCI A2 
 
+<img width="298" alt="image" src="https://github.com/user-attachments/assets/98a20a43-73ab-4eb9-a8f7-496ab3c4b586" />
+<img width="298" alt="image" src="https://github.com/user-attachments/assets/29bb15a8-c737-4226-95c5-296585a7e8d5" />
+<img width="298" alt="image" src="https://github.com/user-attachments/assets/9f1d5bf7-c0e5-426b-9dd4-3ae97de4ba5d" />
+
+
 Figma Prototype Link: https://www.figma.com/proto/M2I9eh5YAvsE2T3do3BVFH/HCI_Assign2
 
 # Desired Functionalities in Current Applications:
