@@ -3,7 +3,7 @@ Submission for HCI A2
 
 Figma Prototype Link: https://www.figma.com/proto/M2I9eh5YAvsE2T3do3BVFH/HCI_Assign2
 
-#Desired Functionalities in Current Applications:
+# Desired Functionalities in Current Applications:
 - Concise Visual Design: Prioritize the essentials through a clean interface and language, rather than nested dropdowns or long scrolling sessions. This allows users to quickly access information with minimal interactions
   
 - Overview of Academic Information: Focus on knowing deadlines to room numbers with two-clicks rather than searching through their calendar or in-depth school system
