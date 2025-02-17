@@ -6,7 +6,7 @@ Submission for HCI A2
 <img width="298" alt="image" src="https://github.com/user-attachments/assets/9f1d5bf7-c0e5-426b-9dd4-3ae97de4ba5d" />
 
 
-Figma Prototype Link: https://www.figma.com/proto/M2I9eh5YAvsE2T3do3BVFH/HCI_Assign2
+Figma Prototype Link: [https://www.figma.com/proto/M2I9eh5YAvsE2T3do3BVFH/HCI_Assign2](https://www.figma.com/proto/iH0Np34qlLLQFmx5WXLHcK/HCI_Assign3?page-id=0%3A1&node-id=3-15&p=f&viewport=55%2C416%2C0.04&t=amnxO8ztK5WjHB80-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=3%3A15&show-proto-sidebar=1)
 
 # Desired Functionalities in Current Applications:
 - Concise Visual Design: Prioritize the essentials through a clean interface and language, rather than nested dropdowns or long scrolling sessions. This allows users to quickly access information with minimal interactions
